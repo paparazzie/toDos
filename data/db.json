@@ -1,0 +1,30 @@
+{
+  "checkList": [
+    {
+      "value": "Babatunde",
+      "id": 0.946740978463624,
+      "done": true
+    },
+    {
+      "value": "Sam",
+      "id": 0.7613458748628867,
+      "done": true
+    },
+    {
+      "value": "Babatunde Sanya Msc",
+      "id": 0.230026070345285,
+      "done": false
+    },
+    {
+      "value": "Babatunde sanya adewumi",
+      "id": 0.5685679461605513,
+      "done": true
+    },
+    {
+      "value": "",
+      "placeholder": "Type Something .....",
+      "id": 0.8333849699337412,
+      "done": false
+    }
+  ]
+}
